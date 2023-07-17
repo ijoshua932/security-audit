@@ -45,4 +45,47 @@ The goals for Botium Toys’ internal IT audit are:
 - Ensure they are meeting compliance requirements
 
 <h2>Risk Assessment</h2>
+<h3>Current Assets</h3>
 
+Assets managed by the IT Department include: 
+- On-premises equipment for in-office business needs
+- Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
+- Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management
+- Internet access
+- Internal network
+- Vendor access management
+- Data center hosting services  
+- Data retention and storage
+- Badge readers
+- Legacy system maintenance: end-of-life systems that require human monitoring 
+
+<h3>Risk description</h3>
+Currently, there is inadequate management of assets. Additionally, Botium Toys does not have the proper controls in place and may not be compliant with U.S. and international regulations and standards.
+
+<h3>Control best practices</h3>
+The first of the five functions of the NIST CSF is Identify. Botium Toys will need to dedicate resources to managing assets. Additionally, they will need to determine the impact of the loss of existing assets, including systems, on business continuity.
+
+<h3>Risk Score</h3>
+On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of controls and adherence to necessary compliance regulations and standards.
+
+<h3>Additional comments</h3>
+The potential impact from the loss of an asset is rated as medium, because the IT department does not know which assets would be lost. The likelihood of a lost asset or fines from governing bodies is high because Botium Toys does not have all of the necessary controls in place and is not adhering to required regulations and standards related to keeping customer data private.
+
+<h2></h2>
+
+After you review the audit scope, goals, and risk assessment, consider the following questions:
+- What are the biggest risks to the organization?
+- Which controls are most essential to implement immediately versus in the future?
+- Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?
+
+<h2>Conduct the Audit: Controls Assessment</h2>
+
+
+
+<p>
+![image](https://github.com/ijoshua932/security-audit/assets/139269375/fa3c3f85-8351-4bea-a21e-239567f58776)
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
