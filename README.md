@@ -12,6 +12,7 @@ This tutorial outlines the scenario and step-by-step instructions of an internal
 - Perform Risk Assessment
 - Conduct the Audit: Controls Assessment
 - Conduct the Audit: Compliance Checklist
+- Communicating Results and Recommendations
 
 <h2>Scenario</h2>
 
@@ -109,3 +110,6 @@ Analyzing the Controls Assessment in cybersecurity audits involves evaluating th
 Analyzing the Compliance checklist in cybersecurity audits involves reviewing and assessing an organization's adherence to applicable laws, regulations, standards, and internal policies related to information security. This process entails comparing the organization's practices and controls against the requirements outlined in the compliance checklist. Auditors examine areas such as data protection, privacy, risk management, incident response, and other relevant domains to ensure that the organization meets the necessary compliance obligations. By analyzing the compliance checklist, auditors identify any gaps or non-compliance issues and provide recommendations for corrective actions to ensure the organization remains in line with regulatory and industry requirements, reducing the risk of legal and reputational consequences.
 </p>
 <br />
+
+<h2>Communicating Results and Recommendations</h2>
+
