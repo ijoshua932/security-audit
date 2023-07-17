@@ -80,12 +80,32 @@ After you review the audit scope, goals, and risk assessment, consider the follo
 
 <h2>Conduct the Audit: Controls Assessment</h2>
 
-
-
 <p>
-![image](https://github.com/ijoshua932/security-audit/assets/139269375/fa3c3f85-8351-4bea-a21e-239567f58776)
+
+![image](https://github.com/ijoshua932/security-audit/assets/139269375/4f9fa7e6-aecf-48bc-b42e-1f2e530094ee)
+
+![image](https://github.com/ijoshua932/security-audit/assets/139269375/c33cedf1-b993-41fd-9d07-4a583b204724)
+
+![image](https://github.com/ijoshua932/security-audit/assets/139269375/852bbf11-b32c-4d16-b09d-3e362a51a548)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Analyzing the Controls Assessment in cybersecurity audits involves evaluating the effectiveness and adequacy of the security controls implemented within an organization's information systems and networks. This process entails examining the design, implementation, and operational effectiveness of controls, such as access controls, encryption mechanisms, incident response procedures, and vulnerability management. By scrutinizing these controls, auditors assess whether they align with industry standards, regulatory requirements, and the organization's security objectives. This analysis aims to identify any gaps, weaknesses, or non-compliance issues that could potentially expose the organization to security risks or threats, enabling necessary remediation actions to be taken.
+</p>
+<br />
+
+<h2>Conduct the Audit: Compliance Checklist</h2>
+
+<p>
+
+![image](https://github.com/ijoshua932/security-audit/assets/139269375/76ee55e6-9951-48d8-8e6b-03f3ab614928)
+
+![image](https://github.com/ijoshua932/security-audit/assets/139269375/b606c1f2-7247-4d4a-bc96-0f5e6dc20940)
+
+![image](https://github.com/ijoshua932/security-audit/assets/139269375/a0e4c471-c8bb-4feb-81db-3eff4753a65a)
+
+</p>
+<p>
+Analyzing the Compliance checklist in cybersecurity audits involves reviewing and assessing an organization's adherence to applicable laws, regulations, standards, and internal policies related to information security. This process entails comparing the organization's practices and controls against the requirements outlined in the compliance checklist. Auditors examine areas such as data protection, privacy, risk management, incident response, and other relevant domains to ensure that the organization meets the necessary compliance obligations. By analyzing the compliance checklist, auditors identify any gaps or non-compliance issues and provide recommendations for corrective actions to ensure the organization remains in line with regulatory and industry requirements, reducing the risk of legal and reputational consequences.
 </p>
 <br />
