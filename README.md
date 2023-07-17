@@ -115,6 +115,11 @@ Analyzing the Compliance checklist in cybersecurity audits involves reviewing an
 
 <p>
 
+![image](https://github.com/ijoshua932/security-audit/assets/139269375/03ed4293-b4fb-4a39-b610-2862973bc0af)
+
+![image](https://github.com/ijoshua932/security-audit/assets/139269375/aa17b28c-bf14-4f38-8147-823c61b7ce74)
+
+![image](https://github.com/ijoshua932/security-audit/assets/139269375/bb50c64a-90e7-473a-b92c-6ba1e930614b)
 
 </p>
 <p>
